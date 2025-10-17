@@ -1,1 +1,1 @@
-# Mean-Houses-Distribution-on-proximity-to-Ocean-in-Califonia
+# California Mean-Houses-Distribution-on-proximity-to-Ocean
